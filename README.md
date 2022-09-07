@@ -1,0 +1,1 @@
+This repository contains my journey through Havard CS50 Course
